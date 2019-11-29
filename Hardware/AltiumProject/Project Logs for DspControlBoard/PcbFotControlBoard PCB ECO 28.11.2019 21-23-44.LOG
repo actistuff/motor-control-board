@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=+5V Pin=C22-1
-Removed Pin From Net: NetName=+5V Pin=VD5-1
-Added Pin To Net: NetName=GNDA Pin=C22-1
-Added Pin To Net: NetName=GNDA Pin=VD5-1
-Added Net: Name=GNDA
